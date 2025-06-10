@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Web\\Ecommerce.Web.csproj": {}
+    "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\Ecommerce.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.DataAccess\\Ecommerce.DataAccess.csproj": {
+    "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.DataAccess\\Ecommerce.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.DataAccess\\Ecommerce.DataAccess.csproj",
+        "projectUniqueName": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.DataAccess\\Ecommerce.DataAccess.csproj",
         "projectName": "Ecommerce.DataAccess",
-        "projectPath": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.DataAccess\\Ecommerce.DataAccess.csproj",
+        "projectPath": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.DataAccess\\Ecommerce.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Kelany Al-Kelany\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.DataAccess\\obj\\",
+        "outputPath": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,8 +31,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Entities\\Ecommerce.Entities.csproj": {
-                "projectPath": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Entities\\Ecommerce.Entities.csproj"
+              "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Entities\\Ecommerce.Entities.csproj": {
+                "projectPath": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Entities\\Ecommerce.Entities.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Entities\\Ecommerce.Entities.csproj": {
+    "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Entities\\Ecommerce.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Entities\\Ecommerce.Entities.csproj",
+        "projectUniqueName": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Entities\\Ecommerce.Entities.csproj",
         "projectName": "Ecommerce.Entities",
-        "projectPath": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Entities\\Ecommerce.Entities.csproj",
+        "projectPath": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Entities\\Ecommerce.Entities.csproj",
         "packagesPath": "C:\\Users\\Kelany Al-Kelany\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Entities\\obj\\",
+        "outputPath": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -176,14 +176,14 @@
         }
       }
     },
-    "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Web\\Ecommerce.Web.csproj": {
+    "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\Ecommerce.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Web\\Ecommerce.Web.csproj",
+        "projectUniqueName": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\Ecommerce.Web.csproj",
         "projectName": "Ecommerce.Web",
-        "projectPath": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Web\\Ecommerce.Web.csproj",
+        "projectPath": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\Ecommerce.Web.csproj",
         "packagesPath": "C:\\Users\\Kelany Al-Kelany\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Web\\obj\\",
+        "outputPath": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -203,8 +203,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.DataAccess\\Ecommerce.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.DataAccess\\Ecommerce.DataAccess.csproj"
+              "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.DataAccess\\Ecommerce.DataAccess.csproj": {
+                "projectPath": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.DataAccess\\Ecommerce.DataAccess.csproj"
               }
             }
           }

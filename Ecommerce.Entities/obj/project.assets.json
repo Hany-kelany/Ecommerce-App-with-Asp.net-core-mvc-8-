@@ -7679,11 +7679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Entities\\Ecommerce.Entities.csproj",
+      "projectUniqueName": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Entities\\Ecommerce.Entities.csproj",
       "projectName": "Ecommerce.Entities",
-      "projectPath": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Entities\\Ecommerce.Entities.csproj",
+      "projectPath": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Entities\\Ecommerce.Entities.csproj",
       "packagesPath": "C:\\Users\\Kelany Al-Kelany\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Entities\\obj\\",
+      "outputPath": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

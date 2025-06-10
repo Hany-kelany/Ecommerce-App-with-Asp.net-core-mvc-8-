@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lCCEkUMFCQ0=",
+  "dgSpecHash": "9V1KTffr88M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kelany Al-Kelany\\source\\repos\\Ecommerce.Web\\Ecommerce.Web\\Ecommerce.Web.csproj",
+  "projectFilePath": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\Ecommerce.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kelany Al-Kelany\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Kelany Al-Kelany\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
