@@ -1,0 +1,23 @@
+﻿@model Category
+@{
+    ViewBag.CardTitle = "Edit Category";
+    ViewBag.PageTitle = "Category Management";
+    Layout = "~/Views/Shared/_Dashboardview.cshtml";
+}
+<form method="post" asp-action="Edit">
+    <div>
+        <input asp-for="Id" hidden />
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="Description"></label>
+        <input asp-for="Description" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="Date"></label>
+        <input asp-for="Date" class="form-control" />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary"> Save </button>
+</form>

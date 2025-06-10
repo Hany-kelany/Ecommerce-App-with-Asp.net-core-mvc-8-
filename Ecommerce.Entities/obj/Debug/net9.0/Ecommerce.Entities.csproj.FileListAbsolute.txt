@@ -1,0 +1,14 @@
+C:\Users\Kelany Al-Kelany\source\repos\Ecommerce.Web\Ecommerce.Entities\bin\Debug\net9.0\Ecommerce.Entities.deps.json
+C:\Users\Kelany Al-Kelany\source\repos\Ecommerce.Web\Ecommerce.Entities\bin\Debug\net9.0\Ecommerce.Entities.runtimeconfig.json
+C:\Users\Kelany Al-Kelany\source\repos\Ecommerce.Web\Ecommerce.Entities\bin\Debug\net9.0\Ecommerce.Entities.dll
+C:\Users\Kelany Al-Kelany\source\repos\Ecommerce.Web\Ecommerce.Entities\bin\Debug\net9.0\Ecommerce.Entities.pdb
+C:\Users\Kelany Al-Kelany\source\repos\Ecommerce.Web\Ecommerce.Entities\obj\Debug\net9.0\Ecommerce.Entities.csproj.AssemblyReference.cache
+C:\Users\Kelany Al-Kelany\source\repos\Ecommerce.Web\Ecommerce.Entities\obj\Debug\net9.0\Ecommerce.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelany Al-Kelany\source\repos\Ecommerce.Web\Ecommerce.Entities\obj\Debug\net9.0\Ecommerce.Entities.AssemblyInfoInputs.cache
+C:\Users\Kelany Al-Kelany\source\repos\Ecommerce.Web\Ecommerce.Entities\obj\Debug\net9.0\Ecommerce.Entities.AssemblyInfo.cs
+C:\Users\Kelany Al-Kelany\source\repos\Ecommerce.Web\Ecommerce.Entities\obj\Debug\net9.0\Ecommerce.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kelany Al-Kelany\source\repos\Ecommerce.Web\Ecommerce.Entities\obj\Debug\net9.0\Ecommerce.Entities.dll
+C:\Users\Kelany Al-Kelany\source\repos\Ecommerce.Web\Ecommerce.Entities\obj\Debug\net9.0\refint\Ecommerce.Entities.dll
+C:\Users\Kelany Al-Kelany\source\repos\Ecommerce.Web\Ecommerce.Entities\obj\Debug\net9.0\Ecommerce.Entities.pdb
+C:\Users\Kelany Al-Kelany\source\repos\Ecommerce.Web\Ecommerce.Entities\obj\Debug\net9.0\Ecommerce.Entities.genruntimeconfig.cache
+C:\Users\Kelany Al-Kelany\source\repos\Ecommerce.Web\Ecommerce.Entities\obj\Debug\net9.0\ref\Ecommerce.Entities.dll
