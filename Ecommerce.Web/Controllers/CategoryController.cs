@@ -1,5 +1,6 @@
 ﻿
 using Ecommerce.DataAccess.Data;
+using Ecommerce.DataAccess.Repository;
 using Ecommerce.Entities.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,15 +10,17 @@ public class CategoryController : Controller
 {
 
     private readonly ApplicationDbContext _context;
+    private readonly IGenericRepository<Category> repo;
 
-    public CategoryController(ApplicationDbContext context)
+    public CategoryController(ApplicationDbContext context , IGenericRepository<Category> repo)
     {
         _context = context;
+        this.repo = repo;
     }
 
     public IActionResult Index()
     {
-        var categories = _context.categories.ToList();
+        var categories = repo.GetAll();
         return View(categories);
     }
     [HttpGet]
@@ -30,8 +33,9 @@ public class CategoryController : Controller
     {
         if (ModelState.IsValid)
         {
-            _context.categories.Add(category);
-            _context.SaveChanges();
+            //_context.categories.Add(category);
+            repo.Add(category);
+            //_context.SaveChanges();
             TempData["Created"] = "Item Added Successfully";
             return RedirectToAction("Index");
         }
@@ -40,11 +44,12 @@ public class CategoryController : Controller
     [HttpGet]
     public IActionResult Edit(int id)
     {
-        var categoryindb = _context.categories.Find(id);
-        if (categoryindb == null)
-        {
-            NotFound();
-        }
+        //var categoryindb = _context.categories.Find(id);
+        var categoryindb = repo.FindbyId(id);
+        //if (categoryindb == null)
+        //{
+        //    NotFound();
+        //}
         return View(categoryindb);
     }
 
@@ -53,8 +58,9 @@ public class CategoryController : Controller
     {
         if (ModelState.IsValid)
         {
-            _context.categories.Update(category);
-            _context.SaveChanges();
+            //_context.categories.Update(category);
+            //_context.SaveChanges();
+            var cat = repo.Edit(category, category.Id);
             TempData["Updated"] = "Item Updated Successfully";
             return RedirectToAction("Index");
         }
@@ -65,10 +71,11 @@ public class CategoryController : Controller
     [HttpGet]
     public IActionResult Delete(int id)
     {
-        var categoryindb = _context.categories.Find(id);
-        if (categoryindb == null)
-            return NotFound();
-        return View(categoryindb);
+        //var categoryindb = _context.categories.Find(id);
+        //if (categoryindb == null)
+        //    return NotFound();
+        var categ = repo.FindbyId(id);
+        return View(categ);
     }
 
 
@@ -76,12 +83,13 @@ public class CategoryController : Controller
     public IActionResult Deleteby(int id)
     {
 
-        var categoryindb = _context.categories.Find(id);
-        if (categoryindb == null)
-            return NotFound();
+        //var categoryindb = _context.categories.Find(id);
+        //if (categoryindb == null)
+        //    return NotFound();
 
-        _context.categories.Remove(categoryindb);
-        _context.SaveChanges();
+        //_context.categories.Remove(categoryindb);
+        //_context.SaveChanges();
+        repo.Delete(id);
         TempData["Deleted"] = "Item Deleted Successfully";
         return RedirectToAction("Index");
     }
