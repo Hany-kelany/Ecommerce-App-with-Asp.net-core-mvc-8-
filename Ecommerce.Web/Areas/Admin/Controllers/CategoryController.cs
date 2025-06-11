@@ -1,18 +1,17 @@
-﻿
-using Ecommerce.DataAccess.Data;
+﻿using Ecommerce.DataAccess.Data;
 using Ecommerce.DataAccess.Repository;
 using Ecommerce.Entities.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Ecommerce.Web.Controllers;
-
+namespace Ecommerce.Web.Areas.Admin.Controllers;
+[Area("Admin")]
 public class CategoryController : Controller
 {
 
     private readonly ApplicationDbContext _context;
     private readonly IGenericRepository<Category> repo;
 
-    public CategoryController(ApplicationDbContext context , IGenericRepository<Category> repo)
+    public CategoryController(ApplicationDbContext context, IGenericRepository<Category> repo)
     {
         _context = context;
         this.repo = repo;

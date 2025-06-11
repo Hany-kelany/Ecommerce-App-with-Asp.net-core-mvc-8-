@@ -28,20 +28,28 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Git Projects/Ecommerce-App-with-Asp.net-core-mvc-8-/Ecommerce.Web/Views/Category/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+[D:/Git Projects/Ecommerce-App-with-Asp.net-core-mvc-8-/Ecommerce.Web/Areas/Admin/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git Projects/Ecommerce-App-with-Asp.net-core-mvc-8-/Ecommerce.Web/Views/Category/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+[D:/Git Projects/Ecommerce-App-with-Asp.net-core-mvc-8-/Ecommerce.Web/Areas/Admin/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git Projects/Ecommerce-App-with-Asp.net-core-mvc-8-/Ecommerce.Web/Views/Category/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+[D:/Git Projects/Ecommerce-App-with-Asp.net-core-mvc-8-/Ecommerce.Web/Areas/Admin/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git Projects/Ecommerce-App-with-Asp.net-core-mvc-8-/Ecommerce.Web/Views/Category/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+[D:/Git Projects/Ecommerce-App-with-Asp.net-core-mvc-8-/Ecommerce.Web/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Git Projects/Ecommerce-App-with-Asp.net-core-mvc-8-/Ecommerce.Web/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Git Projects/Ecommerce-App-with-Asp.net-core-mvc-8-/Ecommerce.Web/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Git Projects/Ecommerce-App-with-Asp.net-core-mvc-8-/Ecommerce.Web/Views/Home/Index.cshtml]
@@ -62,10 +70,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Git Projects/Ecommerce-App-with-Asp.net-core-mvc-8-/Ecommerce.Web/Views/Shared/_Toastr.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ub2FzdHIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Git Projects/Ecommerce-App-with-Asp.net-core-mvc-8-/Ecommerce.Web/Views/View.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Git Projects/Ecommerce-App-with-Asp.net-core-mvc-8-/Ecommerce.Web/Views/_ViewImports.cshtml]
