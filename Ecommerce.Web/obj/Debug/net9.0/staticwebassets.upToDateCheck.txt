@@ -13,6 +13,7 @@ D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\plugins\jquery-ui\jquery-ui.theme.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\js\pages\dashboard2.js
+D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\Customer\css\font-awesome.min.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\css\summary.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\plugins\bootstrap\js\bootstrap.bundle.min.js
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\plugins\fontawesome-free\css\fontawesome.css
@@ -52,6 +53,7 @@ D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\css\alt\adminlte.components.min.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\plugins\jquery-ui\jquery-ui.min.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\css\alt\adminlte.light.css
+D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\Customer\js\bootstrap.js
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\plugins\fontawesome-free\css\regular.min.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
@@ -67,6 +69,8 @@ D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\plugins\fontawesome-free\webfonts\fa-solid-900.svg
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\plugins\jquery-ui\jquery-ui.structure.min.css
+D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\Customer\js\jquery-3.4.1.min.js
+D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\Customer\css\responsive.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\jquery\dist\jquery.min.map
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\js\demo.js
@@ -74,6 +78,8 @@ D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\plugins\jquery-ui\LICENSE.txt
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\css\adminlte.min.css
+D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\Customer\css\bootstrap.css
+D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\Customer\js\custom.js
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\js\adminlte.js.map
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\plugins\sweetalert2\sweetalert2.all.min.js
@@ -106,6 +112,7 @@ D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\css\alt\adminlte.plugins.css.map
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\plugins\fontawesome-free\css\brands.min.css
+D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\Customer\js\popper.min.js
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\plugins\jquery\jquery.slim.min.js
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\plugins\jquery-ui\jquery-ui.css
@@ -120,6 +127,7 @@ D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\css\alt\adminlte.pages.min.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\css\alt\adminlte.plugins.min.css.map
+D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\Customer\css\style.css.map
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\css\alt\adminlte.core.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\css\alt\adminlte.components.min.css.map
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\jquery-validation\dist\additional-methods.js
@@ -139,6 +147,7 @@ D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\plugins\jquery-ui\jquery-ui.theme.min.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\Customer\css\style.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\plugins\jquery\jquery.min.map
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
 D:\Git Projects\Ecommerce-App-with-Asp.net-core-mvc-8-\Ecommerce.Web\wwwroot\lib\jquery\dist\jquery.slim.js
@@ -178,7 +187,48 @@ wwwroot\css\alt\adminlte.plugins.min.css
 wwwroot\css\alt\adminlte.plugins.min.css.map
 wwwroot\css\site.css
 wwwroot\css\summary.css
+wwwroot\Customer\css\bootstrap.css
+wwwroot\Customer\css\font-awesome.min.css
+wwwroot\Customer\css\responsive.css
+wwwroot\Customer\css\style.css
+wwwroot\Customer\css\style.css.map
+wwwroot\Customer\css\style.scss
+wwwroot\Customer\fonts\fontawesome-webfont.ttf
+wwwroot\Customer\fonts\fontawesome-webfont.woff
+wwwroot\Customer\fonts\fontawesome-webfont.woff2
+wwwroot\Customer\images\arrival-bg.jpg
+wwwroot\Customer\images\arrival-bg.png
+wwwroot\Customer\images\client.jpg
+wwwroot\Customer\images\favicon.png
+wwwroot\Customer\images\logo.png
+wwwroot\Customer\images\p1.png
+wwwroot\Customer\images\p10.png
+wwwroot\Customer\images\p11.png
+wwwroot\Customer\images\p12.png
+wwwroot\Customer\images\p2.png
+wwwroot\Customer\images\p3.png
+wwwroot\Customer\images\p4.png
+wwwroot\Customer\images\p5.png
+wwwroot\Customer\images\p6.png
+wwwroot\Customer\images\p7.png
+wwwroot\Customer\images\p8.png
+wwwroot\Customer\images\p9.png
+wwwroot\Customer\images\slider-bg.jpg
+wwwroot\Customer\js\bootstrap.js
+wwwroot\Customer\js\custom.js
+wwwroot\Customer\js\jquery-3.4.1.min.js
+wwwroot\Customer\js\popper.min.js
 wwwroot\favicon.ico
+wwwroot\Images\Products\.jpg
+wwwroot\Images\Products\08cc1e44-b20d-40cc-86f1-cb6a651ca436.png
+wwwroot\Images\Products\244a1d9c-fa83-4e8a-8a6f-6b51b9c6a5af.png
+wwwroot\Images\Products\3a262fd9-7bfe-482d-90b8-399ed095c5e3.png
+wwwroot\Images\Products\6ab5a82c-3f44-4bd3-accc-26b0ae9fa12b.png
+wwwroot\Images\Products\a446cdfb-648e-44cf-8cb9-4917239c7e32.png
+wwwroot\Images\Products\dc55e37f-d289-47b7-8436-02fb8a6d5790.png
+wwwroot\Images\Products\de92deda-e1ff-4355-966d-47a70dd7d1df.png
+wwwroot\Images\Products\ec252aba-00bb-4875-8ddd-a67c771a1138.png
+wwwroot\Images\Products\f3947429-7a1b-49d7-ab89-fbaf324160db.png
 wwwroot\img\AdminLTELogo.png
 wwwroot\img\avatar.png
 wwwroot\img\avatar2.png

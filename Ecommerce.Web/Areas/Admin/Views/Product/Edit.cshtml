@@ -1,0 +1,32 @@
+﻿@model Product
+@{
+    ViewBag.CardTitle = "Edit product";
+    ViewBag.PageTitle = "product Management";
+    Layout = "~/Views/Shared/_Dashboardview.cshtml";
+}
+<form method="post" asp-action="Edit">
+    <div>
+        <input asp-for="Id" hidden />
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="Description"></label>
+        <input asp-for="Description" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="Image"></label>
+        <input asp-for="Image" type="file" id="fileimage" name="ImageUpload" class="form-control" />
+    </div>
+    <div>
+        <label>Categories</label>
+        <br />
+        @Html.DropDownListFor(model => model.CategoryId, ViewBag.Categories as SelectList, "--Select Category--", new { @class = "form-control" })
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary"> Save </button>
+</form>

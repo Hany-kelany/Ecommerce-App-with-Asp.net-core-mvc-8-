@@ -2,6 +2,7 @@
 using Ecommerce.DataAccess.Data;
 using Ecommerce.DataAccess.Repository;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options => options
                                  .UseSqlServer(builder.Configuration.GetConnectionString("defaultconnection")));
+
+builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ApplicationDbContext>();
 
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 var app = builder.Build();
@@ -30,6 +33,12 @@ app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "default",
+    pattern: "{area=Admin}/{controller=Category}/{action=Index}/{id?}")
+    .WithStaticAssets();
+
+
+app.MapControllerRoute(
+    name: "Customer",
     pattern: "{area=Admin}/{controller=Category}/{action=Index}/{id?}")
     .WithStaticAssets();
 

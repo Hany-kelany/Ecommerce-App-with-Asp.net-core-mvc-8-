@@ -41,7 +41,7 @@ public class GenericRepository<T> : IGenericRepository<T> where T : class
 
     public T FindbyId(int id)
     {
-        var itemfromdb = context.Set<T>().Find(id);
+        var itemfromdb = context.Set<T>().Find(id);// select * from products where id == 2
         if (itemfromdb == null)
         {
             throw new ArgumentNullException("itemfromdb");

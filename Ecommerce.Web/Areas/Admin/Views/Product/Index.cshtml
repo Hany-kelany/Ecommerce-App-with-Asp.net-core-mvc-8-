@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewBag.CardTitle = "View product";
+    ViewBag.PageTitle = "product Management";
+    Layout = "~/Views/Shared/_Dashboardview.cshtml";
+}
+<a asp-action="Create" asp-controller="product" class="btn btn-primary">Create</a>
+<br />
+<br />
+<table id="mytable" class="table table-hover">
+    <thead>   
+        <tr>
+            <td>Id</td>
+            <td>Name</td>
+            <td>Description</td>
+            <td>Price</td>
+            <td>Category</td>
+            <td>Image</td>
+        </tr>
+    </thead>
+</table>
+
+
+@section Scripts {
+    <script src="~/js/products.js"></script>
+}

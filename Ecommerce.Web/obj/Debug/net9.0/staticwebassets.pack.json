@@ -5,6 +5,170 @@
       "PackagePath": "staticwebassets\\Ecommerce.Web.9b7j4xbih2.bundle.scp.css"
     },
     {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\css\\style.css",
+      "PackagePath": "staticwebassets\\Customer\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Customer\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\css\\style.scss",
+      "PackagePath": "staticwebassets\\Customer\\css\\style.scss"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Customer\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\arrival-bg.jpg",
+      "PackagePath": "staticwebassets\\Customer\\images\\arrival-bg.jpg"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\arrival-bg.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\arrival-bg.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\client.jpg",
+      "PackagePath": "staticwebassets\\Customer\\images\\client.jpg"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\p1.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\p1.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\p10.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\p10.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\p11.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\p11.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\p12.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\p12.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\p2.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\p2.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\p3.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\p3.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\p4.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\p4.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\p5.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\p5.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\p6.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\p6.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\p7.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\p7.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\p8.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\p8.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\p9.png",
+      "PackagePath": "staticwebassets\\Customer\\images\\p9.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\images\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\Customer\\images\\slider-bg.jpg"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Customer\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Customer\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\.jpg"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\08cc1e44-b20d-40cc-86f1-cb6a651ca436.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\08cc1e44-b20d-40cc-86f1-cb6a651ca436.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\244a1d9c-fa83-4e8a-8a6f-6b51b9c6a5af.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\244a1d9c-fa83-4e8a-8a6f-6b51b9c6a5af.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\3a262fd9-7bfe-482d-90b8-399ed095c5e3.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\3a262fd9-7bfe-482d-90b8-399ed095c5e3.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\6ab5a82c-3f44-4bd3-accc-26b0ae9fa12b.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\6ab5a82c-3f44-4bd3-accc-26b0ae9fa12b.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\a446cdfb-648e-44cf-8cb9-4917239c7e32.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\a446cdfb-648e-44cf-8cb9-4917239c7e32.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\dc55e37f-d289-47b7-8436-02fb8a6d5790.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\dc55e37f-d289-47b7-8436-02fb8a6d5790.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\de92deda-e1ff-4355-966d-47a70dd7d1df.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\de92deda-e1ff-4355-966d-47a70dd7d1df.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\ec252aba-00bb-4875-8ddd-a67c771a1138.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\ec252aba-00bb-4875-8ddd-a67c771a1138.png"
+    },
+    {
+      "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\f3947429-7a1b-49d7-ab89-fbaf324160db.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\f3947429-7a1b-49d7-ab89-fbaf324160db.png"
+    },
+    {
       "Id": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\css\\adminlte.css",
       "PackagePath": "staticwebassets\\css\\adminlte.css"
     },

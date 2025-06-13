@@ -8,12 +8,11 @@ namespace Ecommerce.Web.Areas.Admin.Controllers;
 public class CategoryController : Controller
 {
 
-    private readonly ApplicationDbContext _context;
     private readonly IGenericRepository<Category> repo;
 
-    public CategoryController(ApplicationDbContext context, IGenericRepository<Category> repo)
+    public CategoryController( IGenericRepository<Category> repo)
     {
-        _context = context;
+        
         this.repo = repo;
     }
 
