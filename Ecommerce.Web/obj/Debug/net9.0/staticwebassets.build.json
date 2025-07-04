@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "D7Gj/Jo25lY8NbUql8+zghzkoa2OcbCIwv16vroL2wM=",
+  "Hash": "yiE73ZlEu6SYotdsyVxqkvGmy75uWQ1Qedener1sWDA=",
   "Source": "Ecommerce.Web",
   "BasePath": "_content/Ecommerce.Web",
   "Mode": "Default",
@@ -7367,6 +7367,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Access Denied.png",
+      "SourceId": "Ecommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\",
+      "BasePath": "_content/Ecommerce.Web",
+      "RelativePath": "Images/Access Denied#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3i8uvltux9",
+      "Integrity": "i8nku/0KEoRl3lqzcim68s4jB3HBvfdtrS8e6kiFsMM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Access Denied.png"
+    },
+    {
       "Identity": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\.jpg",
       "SourceId": "Ecommerce.Web",
       "SourceType": "Discovered",
@@ -7472,6 +7493,27 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\6ab5a82c-3f44-4bd3-accc-26b0ae9fa12b.png"
     },
     {
+      "Identity": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\7a42c8fa-bc74-4b70-8f0a-d93145cde5cf.webp",
+      "SourceId": "Ecommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\",
+      "BasePath": "_content/Ecommerce.Web",
+      "RelativePath": "Images/Products/7a42c8fa-bc74-4b70-8f0a-d93145cde5cf#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5vccdhpuuh",
+      "Integrity": "3xJvAPWvIK7j8GST1E7Wl1I+kz9DGp3klbMGzQZuUNA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\7a42c8fa-bc74-4b70-8f0a-d93145cde5cf.webp"
+    },
+    {
       "Identity": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\9b098680-683d-4a5e-a93b-bc6a7fb84068.png",
       "SourceId": "Ecommerce.Web",
       "SourceType": "Discovered",
@@ -7512,6 +7554,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Products\\a446cdfb-648e-44cf-8cb9-4917239c7e32.png"
+    },
+    {
+      "Identity": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\a8eb46a8-1437-4888-be97-600b7067552b.jpg",
+      "SourceId": "Ecommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\",
+      "BasePath": "_content/Ecommerce.Web",
+      "RelativePath": "Images/Products/a8eb46a8-1437-4888-be97-600b7067552b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "popdosxi8x",
+      "Integrity": "SVtochorWbFwFmbqp+hTE4ZmdL5KTTP1F2JlYRhKkBM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\a8eb46a8-1437-4888-be97-600b7067552b.jpg"
     },
     {
       "Identity": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\dc55e37f-d289-47b7-8436-02fb8a6d5790.png",
@@ -34105,6 +34168,88 @@
       ]
     },
     {
+      "Route": "Images/Access Denied.3i8uvltux9.png",
+      "AssetFile": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Access Denied.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i8nku/0KEoRl3lqzcim68s4jB3HBvfdtrS8e6kiFsMM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Jul 2025 03:59:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3i8uvltux9"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Access Denied.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i8nku/0KEoRl3lqzcim68s4jB3HBvfdtrS8e6kiFsMM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Access Denied.png",
+      "AssetFile": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Access Denied.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "153637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i8nku/0KEoRl3lqzcim68s4jB3HBvfdtrS8e6kiFsMM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Jul 2025 03:59:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i8nku/0KEoRl3lqzcim68s4jB3HBvfdtrS8e6kiFsMM="
+        }
+      ]
+    },
+    {
       "Route": "Images/Products/.jpg",
       "AssetFile": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\.jpg",
       "Selectors": [],
@@ -34515,6 +34660,88 @@
       ]
     },
     {
+      "Route": "Images/Products/7a42c8fa-bc74-4b70-8f0a-d93145cde5cf.5vccdhpuuh.webp",
+      "AssetFile": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\7a42c8fa-bc74-4b70-8f0a-d93145cde5cf.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3xJvAPWvIK7j8GST1E7Wl1I+kz9DGp3klbMGzQZuUNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Jul 2025 05:35:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5vccdhpuuh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/7a42c8fa-bc74-4b70-8f0a-d93145cde5cf.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3xJvAPWvIK7j8GST1E7Wl1I+kz9DGp3klbMGzQZuUNA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/7a42c8fa-bc74-4b70-8f0a-d93145cde5cf.webp",
+      "AssetFile": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\7a42c8fa-bc74-4b70-8f0a-d93145cde5cf.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3xJvAPWvIK7j8GST1E7Wl1I+kz9DGp3klbMGzQZuUNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Jul 2025 05:35:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3xJvAPWvIK7j8GST1E7Wl1I+kz9DGp3klbMGzQZuUNA="
+        }
+      ]
+    },
+    {
       "Route": "Images/Products/9b098680-683d-4a5e-a93b-bc6a7fb84068.maf2zd3a1b.png",
       "AssetFile": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\9b098680-683d-4a5e-a93b-bc6a7fb84068.png",
       "Selectors": [],
@@ -34675,6 +34902,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Ej9awY8xaKPIpKpjHmT7HJgK1EcY+aHoCwoqtHvHzn0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/a8eb46a8-1437-4888-be97-600b7067552b.jpg",
+      "AssetFile": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\a8eb46a8-1437-4888-be97-600b7067552b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SVtochorWbFwFmbqp+hTE4ZmdL5KTTP1F2JlYRhKkBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 16:14:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SVtochorWbFwFmbqp+hTE4ZmdL5KTTP1F2JlYRhKkBM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/a8eb46a8-1437-4888-be97-600b7067552b.popdosxi8x.jpg",
+      "AssetFile": "D:\\Git Projects\\Ecommerce-App-with-Asp.net-core-mvc-8-\\Ecommerce.Web\\wwwroot\\Images\\Products\\a8eb46a8-1437-4888-be97-600b7067552b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SVtochorWbFwFmbqp+hTE4ZmdL5KTTP1F2JlYRhKkBM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Jun 2025 16:14:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "popdosxi8x"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/a8eb46a8-1437-4888-be97-600b7067552b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SVtochorWbFwFmbqp+hTE4ZmdL5KTTP1F2JlYRhKkBM="
         }
       ]
     },

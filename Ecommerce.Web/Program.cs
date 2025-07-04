@@ -1,10 +1,10 @@
-
 using Ecommerce.DataAccess.Data;
 using Ecommerce.DataAccess.Repository;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
-using Ecommerce.Entities.Models;
-using System;
+using Microsoft.AspNetCore.Identity.UI.Services;
+using Microsoft.EntityFrameworkCore;
+using Utilities;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,23 +13,21 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options => options
                                  .UseSqlServer(builder.Configuration.GetConnectionString("defaultconnection")));
 
-builder.Services.AddIdentity<IdentityUser , IdentityRole>()
-    .AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
-
-
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+    .AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultUI().AddDefaultTokenProviders();
 
 builder.Services.AddRazorPages();
 
-
 builder.Services.Configure<IdentityOptions>(options =>
 {
-    options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
-    options.Lockout.MaxFailedAccessAttempts = 5;
+    options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromDays(1);
+    options.Lockout.MaxFailedAccessAttempts = 2;
     options.Lockout.AllowedForNewUsers = true;
 });
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 var app = builder.Build();
 
+//builder.Services.AddSingleton<IEmailSender, emailsender>();
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {

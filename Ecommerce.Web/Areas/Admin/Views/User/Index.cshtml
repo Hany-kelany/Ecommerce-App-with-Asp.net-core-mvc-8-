@@ -1,0 +1,51 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model List<IdentityUser>
+@inject UserManager<IdentityUser> UserManager
+
+@{
+    ViewBag.CardTitle = "View Users";
+    ViewBag.PageTitle = "User Management";
+    Layout = "~/Views/Shared/_Dashboardview.cshtml";
+
+
+}        
+<a  href="/Identity/Account/Register" class="btn btn-primary">Create new Customer</a>
+<br />
+<br />
+<table class="table table-hover">
+    <tr>
+        <td>Name</td>
+        <td>Email</td>
+        <td>phone number</td>
+        <td>Actions</td>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        var username = item.Email?.Split('@');
+        <tr>
+            <td>@username[0]</td>
+            <td>@item.Email</td>
+            @{
+                string phone = (item.PhoneNumber == null) ? "Not Added" : item.PhoneNumber;
+            }
+            <td>@phone</td>
+            <td>
+                @if(item.LockoutEnd== null | item.LockoutEnd < DateTime.Now)
+                {
+                    <a class="btn btn-success" asp-action="Edit">
+                        <i class="fas fa-lock-open"></i>
+                    </a>
+                }else
+                {
+                    <a class="btn btn-danger" asp-action="Edit">
+                        <i class="fas fa-lock"></i>
+                    </a>
+                }
+              
+                <a asp-action="Delete" asp-controller="Category" asp-route-Id="@item.Id" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+
+</table>

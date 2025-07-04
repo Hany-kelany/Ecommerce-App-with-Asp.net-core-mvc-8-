@@ -219,13 +219,16 @@ wwwroot\Customer\js\custom.js
 wwwroot\Customer\js\jquery-3.4.1.min.js
 wwwroot\Customer\js\popper.min.js
 wwwroot\favicon.ico
+wwwroot\Images\Access Denied.png
 wwwroot\Images\Products\.jpg
 wwwroot\Images\Products\08cc1e44-b20d-40cc-86f1-cb6a651ca436.png
 wwwroot\Images\Products\244a1d9c-fa83-4e8a-8a6f-6b51b9c6a5af.png
 wwwroot\Images\Products\3a262fd9-7bfe-482d-90b8-399ed095c5e3.png
 wwwroot\Images\Products\6ab5a82c-3f44-4bd3-accc-26b0ae9fa12b.png
+wwwroot\Images\Products\7a42c8fa-bc74-4b70-8f0a-d93145cde5cf.webp
 wwwroot\Images\Products\9b098680-683d-4a5e-a93b-bc6a7fb84068.png
 wwwroot\Images\Products\a446cdfb-648e-44cf-8cb9-4917239c7e32.png
+wwwroot\Images\Products\a8eb46a8-1437-4888-be97-600b7067552b.jpg
 wwwroot\Images\Products\dc55e37f-d289-47b7-8436-02fb8a6d5790.png
 wwwroot\Images\Products\de92deda-e1ff-4355-966d-47a70dd7d1df.png
 wwwroot\Images\Products\eaf4d0d4-6a5c-40f0-871d-4747fd29cc48.jpg
