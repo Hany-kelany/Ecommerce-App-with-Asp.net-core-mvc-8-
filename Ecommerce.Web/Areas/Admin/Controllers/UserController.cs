@@ -46,7 +46,7 @@ public class UserController : Controller
     {
         var user = context.Users.FirstOrDefault(i => i.Id == id);
         if (user == null)
-            TempData["ErrorMessage"] = "المستخدم غير موجود.";
+            TempData["ErrorMessage"] = "User Not Found...";
 
         context.Users.Remove(user);
    
