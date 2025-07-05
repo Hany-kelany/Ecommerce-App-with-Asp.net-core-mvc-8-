@@ -38,14 +38,84 @@
                     </a>
                 }else
                 {
-                    <a class="btn btn-danger" asp-action="Edit">
+                    <a class="btn btn-danger" asp-action="LockUnlock" asp-route-Id="@item.Id">
                         <i class="fas fa-lock"></i>
                     </a>
                 }
-              
-                <a asp-action="Delete" asp-controller="Category" asp-route-Id="@item.Id" class="btn btn-danger">Delete</a>
+                <a asp-action="DeleteUser" asp-controller="User" asp-route-Id="@item.Id" class="btn btn-danger" onclick="confirmDelete(@item.Id)">Delete</a>
+
             </td>
         </tr>
     }
 
 </table>
+
+<!-- رابط حذف مع JavaScript -->
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+        @* رسالة نجاح *@
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <text>
+                    Swal.fire({
+                        icon: 'success',
+                        title: 'نجاح',
+                        text: '@TempData["SuccessMessage"]'
+                    });
+            </text>
+        }
+
+        @* رسالة خطأ *@
+        @if (TempData["ErrorMessage"] != null)
+        {
+            <text>
+                    Swal.fire({
+                        icon: 'error',
+                        title: 'خطأ',
+                        text: '@TempData["ErrorMessage"]'
+                    });
+            </text>
+        }
+        });
+    </script>
+
+    <script>
+        function confirmDelete(id) {
+            const swalWithBootstrapButtons = Swal.mixin({
+                customClass: {
+                    confirmButton: "btn btn-success",
+                    cancelButton: "btn btn-danger"
+                },
+                buttonsStyling: false
+            });
+
+            swalWithBootstrapButtons.fire({
+                title: "هل أنت متأكد؟",
+                text: "لن تتمكن من التراجع عن هذا!",
+                icon: "warning",
+                showCancelButton: true,
+                confirmButtonText: "نعم، احذف!",
+                cancelButtonText: "لا، إلغاء",
+                reverseButtons: true
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    window.location.href = '@Url.Action("DeleteUser", "User")/' + id;
+                } else if (result.dismiss === Swal.DismissReason.cancel) {
+                    swalWithBootstrapButtons.fire({
+                        title: "تم الإلغاء",
+                        text: "الملف آمن :)",
+                        icon: "error"
+                    });
+                }
+            });
+        }
+    </script>
+}
+
+
+    
+
+}
+

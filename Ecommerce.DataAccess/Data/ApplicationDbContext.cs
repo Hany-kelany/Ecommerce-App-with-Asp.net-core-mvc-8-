@@ -12,5 +12,7 @@ namespace Ecommerce.DataAccess.Data
         }
         public DbSet<Category> categories { get; set; }
         public DbSet<Product> products { get; set; }
+        public DbSet<Employee> employees { get; set; }
+
     }
 }
